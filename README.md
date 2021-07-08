@@ -1,6 +1,6 @@
 # git-tutorial-asr2021
 
-Git is a distributed version control system
+Git is a distributed version control system. It facilates merging of different source codes from different developers. And codes are distributed among developers. Make a copy of the repository in your local machine and work offline, and then push your changes to the server.
 
 Install Git in your PC
 - Linux

@@ -42,3 +42,11 @@ Other commands
 - git push -u origin master 
 - git remote add origin master (url) 
 ```
+
+For creating a new branch
+```shell
+git checkout -b testbranch
+git add .
+git commit -m "test"
+git push origin testbranch
+```

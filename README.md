@@ -50,3 +50,9 @@ git add .
 git commit -m "test"
 git push origin testbranch
 ```
+For merging with main/master branch
+```shell
+git checkout main
+git merge testbranch
+git push
+```

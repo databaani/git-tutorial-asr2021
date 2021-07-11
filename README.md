@@ -54,7 +54,7 @@ Other commands
 - git branch (check the branch)
 - git add (file names) 
 - git status
-- git commit -m "(committed message) 
+- git commit -m "(committed message)"
 - git push -u origin master 
 - git remote add origin master (url) 
 ```

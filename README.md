@@ -32,9 +32,15 @@ You can see all the configuration done for your git account from the .gitconfig 
 ```shell
 gedit .gitconfig
 ```
+
+Clone a repository
+```git clone https://github.com/jagabandhumishra/IEEE-Summer-School.git```
+
+To specify a directory, where you want clone the repository (e.g., I want download in ```/home/sishir/ASRREPO```)
+```git clone https://github.com/jagabandhumishra/IEEE-Summer-School.git /home/sishir/ASRREPO```
+
 Other commands 
 ```shell
-- git clone (url)
 - git branch (check the branch)
 - git add (file names) 
 - git status

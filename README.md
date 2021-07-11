@@ -39,6 +39,16 @@ Clone a repository
 To specify a directory, where you want clone the repository (e.g., I want download in ```/home/sishir/ASRREPO```)
 ```git clone https://github.com/jagabandhumishra/IEEE-Summer-School.git /home/sishir/ASRREPO```
 
+- Create GitHub Repository
+- Creat a file
+  - commit changes
+- Create branch
+- Merge the branch with master
+  - Go to the repo and click ```Compare & Pull Request```
+- What if other person wants to contribute with your project
+  - Fork and create pull request
+
+
 Other commands 
 ```shell
 - git branch (check the branch)

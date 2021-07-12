@@ -51,7 +51,7 @@ To specify a directory, where you want clone the repository (e.g., I want downlo
 - This command lists all the files that have to be committed.
   - ```git status```
 - This command lists all the local branches in the current repository.
-- ```git branch``` 
+  - ```git branch``` 
 - This command creates a new branch.
   - ```git branch [branch name]  ```
 - The git add command adds a change in the working directory
